@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hallo Semua 👋
 
+Perkenalkan nama saya **Muhamad Krisnandi**.  
+Saya seorang **Mahasiswa Teknik Informatika** di [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).  
+Saya juga merupakan **Siswa** di [Dicoding](https://www.dicoding.com/).  
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi-661519149/)ku ya.
 <!--
 **m-krisnandi/m-krisnandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
