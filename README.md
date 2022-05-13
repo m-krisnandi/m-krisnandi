@@ -3,7 +3,7 @@
 Introduce my name is **Muhamad Krisnandi**.  
 I'm a **Informatics Engineering Student** at [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).  
 I am also a **Student** at [Dicoding](https://www.dicoding.com/) and [Bangkit Academy](https://bangkit.academy).  
-If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi-661519149/)ku ya.
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi-661519149/).
 
 <p align="left">
 <a href="https://github.com/m-krisnandi">
