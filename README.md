@@ -1,9 +1,9 @@
-### Hallo Semua 👋
+### Hi there 👋
 
-Perkenalkan nama saya **Muhamad Krisnandi**.  
-Saya seorang **Mahasiswa Teknik Informatika** di [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).  
-Saya juga merupakan **Siswa** di [Dicoding](https://www.dicoding.com/).  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi-661519149/)ku ya.
+Introduce my name is **Muhamad Krisnandi**.  
+I'm a **Informatics Engineering Student** at [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).  
+I am also a **Student** at [Dicoding](https://www.dicoding.com/) and [Bangkit Academy](https://bangkit.academy).  
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi-661519149/)ku ya.
 
 <p align="left">
 <a href="https://github.com/m-krisnandi">
