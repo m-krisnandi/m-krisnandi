@@ -2,7 +2,7 @@
 
 Introduce my name is **Muhamad Krisnandi**.  
 I'm a **Informatics Engineering Student** at [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).  
-I am also a **Student** at [Dicoding](https://www.dicoding.com/) and Graduate [Bangkit Academy](https://bangkit.academy) 2022.  
+I am also a **Student** at [Dicoding](https://www.dicoding.com/) and Cloud Computing Graduate at [Bangkit Academy](https://bangkit.academy) 2022.  
 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi-661519149/).
 
 <p align="left">
