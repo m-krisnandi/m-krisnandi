@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-Introduce my name is **Muhamad Krisnandi**.  
-I'm a **Informatics Engineering Student** at [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).  
-I am also a **Student** at [Dicoding](https://www.dicoding.com/) and Cloud Computing Graduate at [Bangkit Academy](https://bangkit.academy) 2022.  
-If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi-661519149/).
+Introduce my name is **Muhamad Krisnandi**.
+- 🔭 I’m currently working as a Backend Developer intern at Telkom Indonesia
+- 🌱 I’m currently learning to Go, Typescript, and Google Cloud Platform.
+- 🎓 I'm a final-year **Informatics Engineering Student** at [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).  
+- 👨🏻‍💻 I am also a **Student** at [Dicoding](https://www.dicoding.com/) and Cloud Computing Graduate at [Bangkit Academy](https://bangkit.academy) 2022.  
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi).
 
 <p align="left">
 <a href="https://github.com/m-krisnandi">
@@ -16,8 +18,8 @@ If you are interested in getting to know me, please follow the account [Linkedin
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working as a Backend Developer intern at Telkom Indonesia
+- 🌱 I’m currently learning to Go, Typescript, and Google Cloud Platform.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
