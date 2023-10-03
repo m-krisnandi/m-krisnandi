@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Introduce my name is **Muhamad Krisnandi**.
-- 🔭 I’m currently working as a Back End Developer Intern at Telkom Indonesia
+- 🔭 Ex - Back End Developer Intern at Telkom Indonesia
 - 🌱 I’m currently learning to Go, Typescript, and Google Cloud Platform.
 - 🎓 I'm a final-year **Informatics Engineering Student** at [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).  
 - 👨🏻‍💻 I am also a **Student** at [Dicoding](https://www.dicoding.com/) and Cloud Computing **Graduate** at [Bangkit Academy](https://bangkit.academy) 2022.  
