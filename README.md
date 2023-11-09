@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Introduce my name is **Muhamad Krisnandi**.
-- 🔭 Ex - Back End Developer at Telkom Indonesia
+- 🔭 Back End Developer at Telkom Indonesia
 - 🌱 I’m currently learning to Go, Typescript, and Google Cloud Platform.
-- 🎓 I'm a final-year **Informatics Engineering Student** at [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).  
+- 🎓 I'm a fresh gradute **Informatics Engineering Student** at [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).  
 - 👨🏻‍💻 I am also a **Student** at [Dicoding](https://www.dicoding.com/) and Cloud Computing **Graduate** at [Bangkit Academy](https://bangkit.academy) 2022.  
 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi).
 
