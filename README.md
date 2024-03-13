@@ -8,12 +8,15 @@ Introduce my name is **Muhamad Krisnandi**.
 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi).
 - This is my [Portfolio](https://mkrisnandi.vercel.app/).
 
+![Codewars](https://github.r2v.ch/codewars?user=m-krisnandi&stroke=%23BB432C)
+
 <p align="left">
 <a href="https://github.com/m-krisnandi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m-krisnandi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m-krisnandi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 <!--
 **m-krisnandi/m-krisnandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
