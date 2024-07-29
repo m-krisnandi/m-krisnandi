@@ -8,8 +8,6 @@ Introduce my name is **Muhamad Krisnandi**.
 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhamad-krisnandi).
 - This is my [Portfolio](https://mkrisnandi.vercel.app/).
 
-![Codewars](https://github.r2v.ch/codewars?user=m-krisnandi&stroke=%23BB432C)
-
 <p align="left">
 <a href="https://github.com/m-krisnandi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m-krisnandi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
